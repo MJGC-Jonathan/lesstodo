@@ -2,7 +2,7 @@ google.load("jquery", "1.3.1");
 google.setOnLoadCallback(function()
 {
     $(".colord").click(function(){
-        $("link").attr("href", "css/style.css");
+        $("link").attr("href", "css/d.css");
         return false;
     });
     $(".colorblue").click(function(){
