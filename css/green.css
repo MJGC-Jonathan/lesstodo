@@ -2,7 +2,7 @@ html {
   font-size: 32px;
   text-align: center;
   font-family: 'Abel';
-  background-color: #7683D2;
+  background-color: #00cc44;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 
 input {
   margin-top: 5px;
-  background-color: #7683D2;
+  background-color: #00b33c;
   border-radius: 5px;
   border: thin solid #212121;
   padding: 2px;
@@ -85,16 +85,3 @@ button {
   text-decoration: none;
   color: #fff;
 }
-.otherlinks:hover {
-  text-decoration: underline;
-}
-#colorchanger { float:right; }
-.colorbox { width:18px; height:20px; border:1px solid #050505; float:left; margin:3px; cursor:pointer; display:block; }
-.colord { background-color:#7683D2; }
-.colord:hover { background-color:#8b96da; }
-.colorblue { background-color:#0066ff; }
-.colorblue:hover { background-color:#3385ff; }
-.colororange { background-color:#F69C3A; }
-.colororange:hover { background-color:#FF5C01; }
-.colorgreen { background-color:#78A848; }
-.colorgreen:hover { background-color:#189048; }
